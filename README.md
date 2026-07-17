@@ -1,4 +1,4 @@
-# face-recognition-python-code
+# Face Recognition
 
 ## Project Overview
 
