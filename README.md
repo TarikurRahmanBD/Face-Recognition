@@ -82,7 +82,7 @@ Note: If `dlib` fails to build on Windows, install the Visual Studio Build Tools
 
 - **Name:** Tarikur Rahman
 - **GitHub:** https://github.com/tarikurrahmanbd
-- **Portfolio:** https://yourtarikur.netlify.app/
+- **Portfolio:** https://yourtarikur.vercel.app/
 - **Social/Handle:** tarikurrahman08
 - **Email:** tarikurrahman2008@gmail.com
 
